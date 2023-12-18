@@ -1,6 +1,6 @@
 ---
-title: "بلاگ"
-description: "فوسفا بلاگ"
+title: "مقالات"
+description: "ام دی کورس مقالات"
 draft: false
 ---
 
