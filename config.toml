@@ -57,7 +57,7 @@ color_primary = "#01AD9F"
 [params]
 
 # -- SiteTitle --
-SiteTitle = "فوسفا"
+SiteTitle = "ام دی کورس"
 
 # -- Comment --
 Commentrepo = "mdpe-ir/MdCourse"
@@ -70,7 +70,7 @@ logo_height = "65px"
 favicon = "images/favicon.png"
 
 # -- Meta data --
-description = "مکانی برای هواداران نرم افزار آزاد"
+description = "آموزش آزاد و رایگان برای همه"
 
 # -- contact form action --
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -84,33 +84,18 @@ copyright = "تمامی حقوق محفوظ است ، تحت لایسنس [FDL](
 # -- counter -- 
 [params.counter]
 enable = true
-user = "gnkalk"
+user = "mdpe-ir"
 
 # -- Social --
 
 # - telegram -
 [[params.social]]
-url = "https://t.me/FOSSFA"
+url = "https://t.me/MdDaily"
 icon = "lab la-telegram"
-
-# - discord -
-[[params.social]]
-url = "https://discord.gg/5md25aNXyc"
-icon = "lab la-discord"
-
-# - Mastodon -
-[[params.social]]
-url = "https://fosstodon.org/@FOSSFarsi"
-icon = "lab la-mastodon"
-
-# - Matrix -
-[[params.social]]
-url = "https://matrix.to/#/#fossfa:matrix.org"
-icon = "las la-comments"
 
 # - Github -
 [[params.social]]
-url = "https://github.com/FOSSFA"
+url = "https://github.com/mdpe-ir/"
 icon = "lab la-github"
 
 # ----- Menu -----
