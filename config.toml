@@ -83,7 +83,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 mainSections = ["blog"]
 
 # -- Footer --
-copyright = "تمامی حقوق محفوظ است ، تحت لایسنس [FDL](http://www.gnu.org/licenses/fdl-1.3.html)"
+copyright = "تمامی حقوق محفوظ است ، تحت لایسنس [CC](https://creativecommons.org/licenses/by/4.0/)"
 
 # -- counter -- 
 [params.counter]
