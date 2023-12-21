@@ -7,9 +7,9 @@ social:
   enable: true
   social_links:
     - link: https://t.me/MdDaily
-      img: /images/contact/FF.jpg
+      img: images/contact/FF.jpg
     - link: https://t.me/MdDailyGap
-      img: /images/contact/FP.jpg
+      img: images/contact/FP.jpg
 ---
 
 به دلیل اینکه MdDaily دارای وبگاهی ایستا(استاتیک)(تغییر ناپذیر) بوده و این‌نوع وبگاه ها بدون در اختیار داشتن امکانات
