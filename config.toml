@@ -60,7 +60,7 @@ color_primary = "#01AD9F"
 SiteTitle = "فوسفا"
 
 # -- Comment --
-Commentrepo = "FOSSFA/Blog"
+Commentrepo = "mdpe-ir/MdCourse"
 Commenttheme = "github-light"
 Commentlabel = "Comment"
 
