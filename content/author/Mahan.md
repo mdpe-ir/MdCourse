@@ -10,7 +10,6 @@ social:
   - icon: "la-github"
     link: "https://github.com/mdpe-ir/"
 ---
-
 بنیان‌گذار ام دی کورس و MdDaily
 
 ---
