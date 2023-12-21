@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: FOSSFA/Blog
-  branch: Dev
+  repo: mdpe-ir/MdCourse
+  branch: main
 
 media_folder: "static/images/upload"
 public_folder: "images/upload"
