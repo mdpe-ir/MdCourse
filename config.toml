@@ -62,7 +62,7 @@ SiteTitle = "ام دی کورس"
 # -- Comment --
 Commentrepo = "mdpe-ir/MdCourse"
 Commenttheme = "github-light"
-Commentlabel = "Comment"
+Commentlabel = "کامنت"
 
 # -- Logo and Favicon --
 logo = "images/logo.png"
