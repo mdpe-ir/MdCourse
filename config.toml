@@ -32,6 +32,10 @@ link = "plugins/Vanilla-Gallery-main/Css-script/RO/Gallery-OCO.css"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "https://lib.arvancloud.ir/jquery/3.6.0/jquery.js"
+[[params.plugins.js]]
+link = "https://lib.arvancloud.ir/alpinejs/3.9.6/cdn.min.js"
+[[params.plugins.js]]
+link = "plugins/md-daily/md-daily.js"
 
 # site variables
 [params.variables]
@@ -110,12 +114,12 @@ name = "خانه"
 [[menu.main]]
 weight = 3
 url = "about"
-name = "درباره ما"
+name = "درباره"
 
 [[menu.main]]
 weight = 4
 url = "contact"
-name = "ارتباط با ما"
+name = "ارتباط"
 
 # -- Footer Menu --
 
