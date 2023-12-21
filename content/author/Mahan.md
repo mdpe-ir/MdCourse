@@ -1,7 +1,7 @@
 ---
 title: "Mahan"
 image: "images/author/Mahan.png"
-email: "gnkalk@tuta.io"
+email: ""
 date: 2023-12-21T08:18:39Z
 draft: false
 social:
