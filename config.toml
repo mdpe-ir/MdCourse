@@ -21,7 +21,7 @@ link = "https://lib.arvancloud.ir/bootstrap/5.3.0-alpha1/css/bootstrap.rtl.min.c
 [[params.plugins.css]]
 link = "plugins/line-awesome/css/line-awesome.min.css"
 [[params.plugins.css]] # Font Vazir
-link = "https://lib.arvancloud.ir/vazir-font/30.1.0/font-face.css"
+link = "https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css"
 [[params.plugins.css]] # Custom Css
 link = "plugins/customCss/main.css"
 [[params.plugins.css]] # Vanilla Gallery
@@ -39,7 +39,7 @@ link = "plugins/md-daily/md-daily.js"
 
 # site variables
 [params.variables]
-font_primary = "Vazir"
+font_primary = "Vazirmatn"
 h1 = "64px"
 h1_lg = "52px"
 h1_md = "42px"
