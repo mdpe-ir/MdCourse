@@ -149,8 +149,8 @@
   },
   "active": "99c454a2225752bf",
   "lastOpenFiles": [
-    "blog/building-a-load-balancer-in-go.md",
     "blog/building-a-load-balancer-in-go.md~",
+    "blog/building-a-load-balancer-in-go.md",
     "images/post/lb/lb-slice-traverse.93ea44d.9c17a7fc56f9bf6c9e4583c29127aa55.png",
     "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png",
     "images/post/lb/lb-rr.a901b4a.3b34a78610b7c1e2d22b85f0419700d2.png",

@@ -1,5 +1,5 @@
 # -- Base Conf --
-baseURL = "https://mdcourse.ir/"
+baseURL = "https://mddaily.web.app/"
 languageCode = "fa-IR"
 title = "خانه"
 theme = "bookworm-FE"

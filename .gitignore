@@ -360,3 +360,5 @@ hugo.linux
 # Go workspace file
 go.work
 
+.firebase/
+.firebase/hosting.cHVibGlj.cache
