@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99c454a2225752bf",
+            "id": "ee26b4c6fa267602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
+                "file": "blog/create-spotify-downloader-bot-with-golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
+                "file": "blog/create-spotify-downloader-bot-with-golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
+                "file": "blog/create-spotify-downloader-bot-with-golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md"
+                "file": "blog/create-spotify-downloader-bot-with-golang.md"
               }
             }
           }
@@ -147,19 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99c454a2225752bf",
+  "active": "ee26b4c6fa267602",
   "lastOpenFiles": [
-    "Pasted image 20240106132912.png",
-    "Pasted image 20240106132911.png",
-    "Pasted image 20240106132909.png",
-    "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md~",
+    "blog/create-spotify-downloader-bot-with-golang.md~",
+    "images/post/spotifybot/db11.png",
+    "images/post/spotifybot/Pasted image.png",
+    "images/post/spotifybot/db10.png",
+    "images/post/spotifybot/db9.png",
+    "images/post/spotifybot/db8.png",
     "blog/building-a-load-balancer-in-go.md",
-    "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
-    "blog/happy-yalda-1402.md",
-    "blog/building-a-load-balancer-in-go.md~",
-    "images/post/lb/lb-slice-traverse.93ea44d.9c17a7fc56f9bf6c9e4583c29127aa55.png",
     "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png",
-    "images/post/lb/lb-rr.a901b4a.3b34a78610b7c1e2d22b85f0419700d2.png",
+    "blog/create-spotify-downloader-bot-with-golang.md",
+    "images/post/spotifybot/db7.png",
+    "images/post/spotifybot/img.png",
+    "images/post/spotifybot/db5.png",
+    "images/post/spotifybot/db6.png",
+    "blog/create-spotify-bot-with-golang.md~",
+    "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
+    "images/post/spotifybot/Pasted.md",
+    "blog/happy-yalda-1402.md",
+    "images/post/spotifybot",
+    "images/post/spotifybot",
+    "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md~",
+    "blog/building-a-load-balancer-in-go.md~",
     "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png.md",
     "images/post/lb",
     "images/post",
