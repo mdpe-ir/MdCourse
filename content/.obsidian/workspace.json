@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9994f9c23d689341",
+        "id": "584d44e9e433c25c",
         "type": "tabs",
         "children": [
           {
-            "id": "ee26b4c6fa267602",
+            "id": "24ec5086f72d554a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/create-spotify-downloader-bot-with-golang.md",
+                "file": "blog/7-common-front-end-security-attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c02c1aeff87d6430",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/create-spotify-downloader-bot-with-golang.md",
+                "file": "blog/7-common-front-end-security-attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/create-spotify-downloader-bot-with-golang.md",
+                "file": "blog/7-common-front-end-security-attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/create-spotify-downloader-bot-with-golang.md"
+                "file": "blog/7-common-front-end-security-attacks.md"
               }
             }
           }
@@ -147,8 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee26b4c6fa267602",
+  "active": "24ec5086f72d554a",
   "lastOpenFiles": [
+    "blog/7-common-front-end-security-attacks.md~",
+    "blog/create-spotify-downloader-bot-with-golang.md",
+    "blog/7-common-front-end-security-attacks.md",
+    "blog/7-common-front-end-security-attacks.html~",
+    "blog/7-common-front-end-security-attacks.html",
     "blog/create-spotify-downloader-bot-with-golang.md~",
     "images/post/spotifybot/db11.png",
     "images/post/spotifybot/Pasted image.png",
@@ -157,7 +163,6 @@
     "images/post/spotifybot/db8.png",
     "blog/building-a-load-balancer-in-go.md",
     "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png",
-    "blog/create-spotify-downloader-bot-with-golang.md",
     "images/post/spotifybot/db7.png",
     "images/post/spotifybot/img.png",
     "images/post/spotifybot/db5.png",
@@ -171,8 +176,6 @@
     "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md~",
     "blog/building-a-load-balancer-in-go.md~",
     "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png.md",
-    "images/post/lb",
-    "images/post",
-    "images"
+    "images/post/lb"
   ]
 }
