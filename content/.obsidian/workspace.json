@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/7-common-front-end-security-attacks.md",
+                "file": "blog/how-does-uber-find-nearby-drivers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c02c1aeff87d6430",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/7-common-front-end-security-attacks.md",
+                "file": "blog/how-does-uber-find-nearby-drivers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/7-common-front-end-security-attacks.md",
+                "file": "blog/how-does-uber-find-nearby-drivers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/7-common-front-end-security-attacks.md"
+                "file": "blog/how-does-uber-find-nearby-drivers.md"
               }
             }
           }
@@ -150,9 +149,10 @@
   },
   "active": "24ec5086f72d554a",
   "lastOpenFiles": [
+    "blog/how-does-uber-find-nearby-drivers.md~",
+    "blog/7-common-front-end-security-attacks.md",
     "blog/7-common-front-end-security-attacks.md~",
     "blog/create-spotify-downloader-bot-with-golang.md",
-    "blog/7-common-front-end-security-attacks.md",
     "blog/7-common-front-end-security-attacks.html~",
     "blog/7-common-front-end-security-attacks.html",
     "blog/create-spotify-downloader-bot-with-golang.md~",
