@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/how-does-uber-find-nearby-drivers.md",
+                "file": "blog/system-design-interview-question-design-url-shortener.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/how-does-uber-find-nearby-drivers.md",
+                "file": "blog/system-design-interview-question-design-url-shortener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/how-does-uber-find-nearby-drivers.md",
+                "file": "blog/system-design-interview-question-design-url-shortener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/how-does-uber-find-nearby-drivers.md"
+                "file": "blog/system-design-interview-question-design-url-shortener.md"
               }
             }
           }
@@ -149,6 +149,20 @@
   },
   "active": "24ec5086f72d554a",
   "lastOpenFiles": [
+    "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
+    "blog/system-design-interview-question-design-url-shortener.md",
+    "images/post/systemdesgintinyurl/12.webp",
+    "images/post/systemdesgintinyurl/11.webp",
+    "images/post/systemdesgintinyurl/10.webp",
+    "images/post/systemdesgintinyurl/9.webp",
+    "images/post/systemdesgintinyurl/8.webp",
+    "images/post/systemdesgintinyurl/7.webp",
+    "images/post/systemdesgintinyurl/6.webp",
+    "images/post/systemdesgintinyurl/5.webp",
+    "images/post/systemdesgintinyurl/4.webp",
+    "images/post/systemdesgintinyurl/3.webp",
+    "images/post/systemdesgintinyurl",
+    "blog/how-does-uber-find-nearby-drivers.md",
     "blog/how-does-uber-find-nearby-drivers.md~",
     "blog/7-common-front-end-security-attacks.md",
     "blog/7-common-front-end-security-attacks.md~",
@@ -156,26 +170,13 @@
     "blog/7-common-front-end-security-attacks.html~",
     "blog/7-common-front-end-security-attacks.html",
     "blog/create-spotify-downloader-bot-with-golang.md~",
-    "images/post/spotifybot/db11.png",
-    "images/post/spotifybot/Pasted image.png",
-    "images/post/spotifybot/db10.png",
-    "images/post/spotifybot/db9.png",
-    "images/post/spotifybot/db8.png",
     "blog/building-a-load-balancer-in-go.md",
-    "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png",
-    "images/post/spotifybot/db7.png",
-    "images/post/spotifybot/img.png",
-    "images/post/spotifybot/db5.png",
-    "images/post/spotifybot/db6.png",
     "blog/create-spotify-bot-with-golang.md~",
-    "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md",
     "images/post/spotifybot/Pasted.md",
     "blog/happy-yalda-1402.md",
     "images/post/spotifybot",
     "images/post/spotifybot",
     "blog/how-paypal-was-able-to-support-a-billion-transactions-per-day-with-only-8-virtual-machines.md~",
-    "blog/building-a-load-balancer-in-go.md~",
-    "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png.md",
-    "images/post/lb"
+    "images/post/lb/lb-archi.0b1c2c4.b3e35c7510dc44451088756d14739161.png.md"
   ]
 }
